@@ -1,0 +1,78 @@
+.headings {
+			margin-top: 15px;
+			margin-bottom: 15px;
+			background-color: #3498db;
+			color: white;
+			width: 80%;
+			height: 70px;
+			position: relative;
+			left: 115px;
+			border-radius: 10px;
+			text-align: center;
+			padding: 15px;
+			margin-top: 15px;
+		}
+
+		.body_body {
+			background-color: #ecf0f1;
+		}
+		.updateForm{
+          width: 50%;
+          background-color: white;
+          margin-top: 10px;
+          height: 400px;
+          position: relative;
+          top: 80px;
+          left: 25%;
+          border-radius: 10px;
+          color: black;
+          font-weight: bold;
+          font-size: 15px;
+          text-align: left;
+          padding-left: 5px;
+		}
+		.input_image {		
+	    background: aqua;
+	    padding: 10px 15px;
+	    border: 1px solid#9fc7e2;
+	    border-radius: 20px;
+	    width: 350px;
+	    margin-top: 20px;
+		}
+
+		.input_name {			
+	    margin-top: 70px;
+	    padding: 10px 15px;
+	    width: 350px;
+	    border-radius: 20px;
+	    width: 350px;
+	    border: 1px solid#9fc7e2;
+	    padding-top: 17px;
+	    text-align: center;      
+		}
+
+		.input_category {	
+	    margin-top: 20px;
+	    padding: 8px 15px;
+	    width: 350px;
+	    border-radius: 20px;
+	    width: 382px;
+	    border: 1px solid#9fc7e2;
+	    padding-top: 17px;
+	    text-align: center;
+		}
+
+		.input_btn{
+			background: #3498db;
+		    padding: 14px 45px;
+		    border-radius: 20px;
+		    border: 0px;
+		    color: #fff;
+		    font-size: 16px;
+		    position: relative;
+		    right: 370px;
+		    top: 30px;
+		}
+.update {
+margin: 20px 570px;
+}

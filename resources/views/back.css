@@ -1,0 +1,71 @@
+
+		.main_div {
+          background-color: #ecf0f1;
+          height: 800px;
+          width: 90%;
+          position: relative;
+          left: 60px;
+		}
+		.headings {
+			margin-top: 15px;
+			margin-bottom: 15px;
+			background-color: #3498db;
+			color: #34495e;
+			width: 80%;
+			height: 70px;
+			position: relative;
+			left: 115px;
+			border-radius: 10px;
+			text-align: center;
+			padding: 15px;
+			margin-top: 15px;
+
+
+		}
+		.selections_div {
+
+            margin-top: 25px;
+			margin-bottom: 25px;
+			background-color: #3498db;
+			color: #34495e;
+			width: 80%;
+			height: 70px;
+			position: relative;
+			left: 115px;
+			border-radius: 10px;
+			padding: 15px;
+
+		}
+		
+
+		.main_div .selections_div .input1 {
+			
+			padding-right: 40px;
+		}
+
+		.main_div .selections_div .input2 {
+			
+			margin-left: 100px;
+			margin-right: 100px;
+			margin-top: 20px;
+			padding: 15px;
+		}
+		
+
+      .main_div .selections_div .input3 {
+			
+			padding: 15px;
+		}
+		.myTable {
+			position: relative;
+			left: 120px;
+			background-color: #ecf0f1;
+			width: 80%;
+			border:5px solid #2980b9;
+			
+			
+		}
+		
+		.body_body {
+			background-color: #ecf0f1;
+		}
